@@ -72,7 +72,7 @@ Sales teams often face challenges due to:
 
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard_page01.png)
-![Dashboard](dashboard_page02png)
+![Dashboard](dashboard_page02.png)
 ![Dashboard](dashboard_page03.png)
 
 
